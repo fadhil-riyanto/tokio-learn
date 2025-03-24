@@ -1,0 +1,4 @@
+This repository contain various files, the common one is included in the following list:
+- `README.md`: this file
+- './examples': big fat of experimental files
+- './src': mini redis example
