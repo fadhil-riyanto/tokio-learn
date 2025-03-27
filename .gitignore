@@ -1,1 +1,4 @@
-/target
+/main/target/
+/runtime-experimental/target/
+/client/target/
+/tests/target/
